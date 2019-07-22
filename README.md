@@ -4,4 +4,5 @@
 
 Выполняет простейшие арифметические операции 
 
-![внешний вид калькулятора](https://user-images.githubusercontent.com/44035759/61181887-bb284700-a634-11e9-9bf6-2c44366be1cf.png)
+![внешний вид калькулятора](https://user-images.githubusercontent.com/44035759/61650333-22d93480-acbc-11e9-87a5-83414be88027.png)
+
